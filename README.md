@@ -48,9 +48,6 @@ Before you begin, ensure you have met the following requirements:
 
 The computer mode uses the **Minimax Algorithm**, a recursive decision-making algorithm commonly used in game theory. It evaluates all over possible future moves to choose the absolutely optimal path, ensuring that the computer will either win or force a draw. It is mathematically impossible to beat!
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/premium-tic-tac-toe/issues).
 
 ## 📝 License
 
