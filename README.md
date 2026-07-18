@@ -13,12 +13,11 @@ A modern, luxurious, and minimalistic Tic-Tac-Toe game built with Python and Tki
   - 👥 **1 vs 1**: Play locally with a friend on the same machine.
   - 🤖 **Play vs Computer**: Challenge an unbeatable AI that uses the strict **Minimax algorithm**—it will never lose!
 - **Score Tracking**: Built-in scoreboard to keep track of X wins, O wins, and Draws during a session.
-- **Hover Animations**: Subtle glowing hover effects on menu items for interactive feedback.
 
 ## 🛠️ Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-- **Python 3.x** installed on your system.
+- **Python 3.x** installed on your system !
 - **Pillow (PIL)** library for advanced image rendering.
 
 ## 🚀 Installation & Setup
@@ -47,8 +46,3 @@ Before you begin, ensure you have met the following requirements:
 ## 🧠 How the AI Works
 
 The computer mode uses the **Minimax Algorithm**, a recursive decision-making algorithm commonly used in game theory. It evaluates all over possible future moves to choose the absolutely optimal path, ensuring that the computer will either win or force a draw. It is mathematically impossible to beat!
-
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
